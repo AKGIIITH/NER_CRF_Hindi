@@ -11,7 +11,7 @@ This is the Project, I have been assigned in Semester 2 for Computational Lingui
 
     For more Information: https://www.youtube.com/watch?v=6b3DmE2jYzg
     
-### For Tokenizing We used prebuilt model from iNLTK, but can be done using Regex and Python,(Sample Code provided for English)
+### For Tokenizing We used python and wrote code but have punctuation issues which is needed to be fixed
 
 Source of NER Data: "ai4bharat/naamapadam" from HuggingFace
 Source of POS Data: Hugging Face
