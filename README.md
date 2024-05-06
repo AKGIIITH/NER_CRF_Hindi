@@ -13,11 +13,11 @@ This is the Project, I have been assigned in Semester 2 for Computational Lingui
     
 ### For Tokenizing We used python and wrote code but have punctuation issues which is needed to be fixed
 
-Source of NER Data: "ai4bharat/naamapadam" from HuggingFace
-Source of POS Data: Hugging Face
-Source of Chunking: Missing(I had to do)
-Source of Test Data: News:AajTak,Amar Ujala
-                     Story: Do Bail -PremChand
+Source of NER Data: "ai4bharat/naamapadam" from HuggingFace\n
+Source of POS Data: Hugging Face\n
+Source of Chunking: Missing(I had to do)\n
+Source of Test Data: News:AajTak,Amar Ujala\n
+                     \tStory: Do Bail -PremChand
 
 The Genre of NER Training Data is mixed, whereas POS is some Article or Story.
 
